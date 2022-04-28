@@ -9,4 +9,4 @@ Invoke-WebRequest -Uri "https://drive.google.com/u/0/uc?id=1e1fz1KToirw9qdvOmNoX
 powershell -ExecutionPolicy Bypass -File .\ssh-installer.ps1
 powershell -ExecutionPolicy Bypass -File .\winrm-installer.ps1
 
-powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
