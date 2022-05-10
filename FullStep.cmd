@@ -7,3 +7,4 @@ choco install -y neovim
 del .\ssh-installer.ps1 
 del .\winrm-installer.ps1 
 del .\rport-installer.ps1
+Restart-Service rport
