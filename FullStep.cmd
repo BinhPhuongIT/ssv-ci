@@ -17,3 +17,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install -y neovim
 Restart-Service rport
 exit
+
+
+# RMMS
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://drive.google.com/u/0/uc?id=15uRPvqTycqAiHo1zj933S6V0uS3M8YtZ&export=download&confirm=t'))
