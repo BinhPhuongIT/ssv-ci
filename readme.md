@@ -16,3 +16,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # Insstall VPN meraki
 Invoke-WebRequest -Uri "https://drive.google.com/u/0/uc?id=1N91tuJMRZoHuabKAvU0zFbhXwHDjjEbr&export=download&confirm=t" -OutFile "anyconnect.msi"
 msiexec.exe /i anyconnect.msi /quiet /norestart
+
+
+https://raw.githubusercontent.com/BinhPhuongIT/ssv-ci/main/readme.md
