@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T03:09:19.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="19.0.3" etag="sgtQOPDXzAw75HEWlzxi" type="github"><diagram id="VxW4d5q7raR0c0rR2ctT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-09T11:26:35.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nwAKjSAlgMkkVkxWHV5u" version="19.0.3" type="github">
+  <diagram id="VxW4d5q7raR0c0rR2ctT" name="Page-1">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-1" value="CLUSTER&lt;br&gt;SC-PROD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-2" value="&lt;span style=&quot;color: rgb(69, 69, 69); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 15px; text-align: start; background-color: rgb(235, 239, 240);&quot;&gt;Namespace:&lt;br&gt;sc-1XXX&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-3" value="&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(233, 246, 247);&quot;&gt;Deployment&lt;br&gt;SC-APP&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 21px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(233, 246, 247);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-4" value="&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(233, 246, 247);&quot;&gt;Deployment&lt;br&gt;GOT&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 21px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(233, 246, 247);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-6" value="&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: start; font-size: 14px;&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;sc-nginx&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(233, 246, 247);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="470" as="sourcePoint" />
+            <mxPoint x="170" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-10" value="&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: start; font-size: 14px;&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;sc-database-pg12&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; background-color: rgb(233, 246, 247);&quot;&gt;&lt;br style=&quot;&quot;&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="410" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-13" value="&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(233, 246, 247); font-size: 14px;&quot;&gt;sc-karafka&lt;/span&gt;&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
