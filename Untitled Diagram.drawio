@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T11:26:35.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="nwAKjSAlgMkkVkxWHV5u" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T11:31:13.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UTCtVdlfyJbjVmmWeRw1" version="19.0.3" type="github">
   <diagram id="VxW4d5q7raR0c0rR2ctT" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="yihj3f8BIdq0uMKdQFd8-13" value="&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(233, 246, 247); font-size: 14px;&quot;&gt;sc-karafka&lt;/span&gt;&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-14" value="&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;sc-mprocer&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yihj3f8BIdq0uMKdQFd8-15" value="&lt;span style=&quot;background-color: rgb(233, 246, 247);&quot;&gt;&lt;font face=&quot;Prompt, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, sans-serif&quot; color=&quot;#34495e&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(52, 73, 94); font-family: Prompt, &amp;quot;Helvetica Neue Light&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: initial; font-size: 14px; text-align: start;&quot;&gt;sc-redis&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
